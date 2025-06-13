@@ -1,6 +1,7 @@
 # Explaining a Neural Network with Perturbation and Pratt's Measure: An Example with Assessing College Major Preference Assessment
 
-*Shun-Fu Hu*  
+*Shun-Fu Hu* 
+*Amery D. Wu*
 *The University of British Columbia*
 
 ## Abstract
